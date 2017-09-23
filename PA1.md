@@ -1,4 +1,4 @@
-Reproducible Research - Week 2, Project 1
+Reproducible Research - Project 1
 =========================
 
 ## Code for reading in the dataset and processing.
