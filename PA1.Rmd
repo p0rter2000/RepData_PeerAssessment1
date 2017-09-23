@@ -1,7 +1,14 @@
 Reproducible Research - Project 1
 =========================
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(
+    echo = TRUE,
+    eval = TRUE,
+    include = TRUE,
+    fig.path = "figure/", 
+    fig.keep = "high", 
+    fig.show = "asis"
+)
 ```
 ## Code for reading in the dataset and processing.
 
